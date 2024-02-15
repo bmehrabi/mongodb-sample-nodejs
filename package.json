@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-with-mongodb",
+  "version": "1.0.0",
+  "description": "Sample project for NodeJs & MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  }
+}
